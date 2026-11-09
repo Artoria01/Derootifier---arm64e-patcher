@@ -6,4 +6,4 @@ arm64 to arm64e
 
 .ipa is no sign / install by TrollStore
 
-repost by haxi0 2025
+repost by haxi0 2025 v1.3
